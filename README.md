@@ -29,7 +29,7 @@ A VPN, which stands for virtual private network, establishes a digital connectio
 * **Step 2: Log into VM and lookup IP address** 
   - Create a Windows 10 Virtual Machine (not shown in photos)
   - Log into the VM with Remote Desktop (not shown in photos)
-  - After logging into the Windows 10 virtual machine browse to https://whatismyipaddress.com/ note in the photo below my geographic loaction as changed bc of the VM. Take note of the IP address in a text file
+  - After logging into the Windows 10 virtual machine browse to https://whatismyipaddress.com/ note in the photo below my geographic location as changed bc of the VM. Take note of the IP address in a text file
 ![vpn2](https://github.com/TerrellSowell/VPN-Setup-and-Usage/assets/161978506/6cc496d4-3635-44d6-8eb1-6e4d1ff66936)
 
 * **Step 3: Sign up for ProtonVPN and test the VPN connection)**
