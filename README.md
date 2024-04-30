@@ -3,7 +3,7 @@
 
 ## Objective
 
-A Virtual Private Network (VPN) is a technology that establishes a secure connection between a computing device and a computer network, or between two networks. A VPN allows you to access the public internet via a secure and private network connection. It effectively hides your IP address and protects your personal data by encrypting your internet traffic. Think of it as a protective tunnel for your online activities. This VPN Lab is aimed establish how VPN's work and to deepen my understanding on how remote desktop protocol works. The primary focus was to ingest and analyze IP addresses within my home computer, a virtual machine, and VPN.
+A Virtual Private Network (VPN) is a technology that establishes a secure connection between a computing device and a computer network, or between two networks. A VPN allows you to access the public internet via a secure and private network connection. It effectively hides your IP address and protects your personal data by encrypting your internet traffic. Think of it as a protective tunnel for your online activities. This VPN Lab is aimed to establish how VPN's work and to deepen my understanding on how remote desktop protocol works. The primary focus was to ingest and analyze IP addresses within my home computer, a virtual machine, and VPN.
 
 ### Skills Learned<h2>
 
