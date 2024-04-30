@@ -3,7 +3,7 @@
 
 ## Objective
 
-The VPN Lab is aimed establish how VPN's work and to deepen my understanding on how remote desk protocol works. The primary focus was to ingest and analyze IP addresses within my home computer, a virtual machine, and VPN.
+This VPN Lab is aimed establish how VPN's work and to deepen my understanding on how remote desktop protocol works. The primary focus was to ingest and analyze IP addresses within my home computer, a virtual machine, and VPN.
 
 ### Skills Learned<h2>
 
